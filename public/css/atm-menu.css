@@ -1,0 +1,120 @@
+*{
+    font-family:'Nunito';
+}
+
+body{
+    background-color: #F6F6F6 !important;
+}
+
+.btn{
+    background: #28DF99;
+    border: #28DF99;
+}
+
+.logo{
+    margin-left: -3rem;
+}
+
+.menu{
+    font-weight: 700;
+    padding-top: 1.5rem;
+    margin-bottom: 7rem;
+}
+
+.btn-menu{
+    padding-inline: 6rem !important;
+}
+
+.card{
+    border: none !important;   
+}
+
+.m-button{
+    padding-block: 1.3rem !important;
+}
+
+.kotak-bulet{
+    position: relative;
+    max-width: 120px;
+    width: 100%;
+    top: -3rem;
+    margin-bottom: -5rem;
+}
+
+.kotak{
+    position: relative;
+    max-width: 210px;
+    width: 100%;
+    margin-top: 2rem;
+    margin-left: 5rem;
+    /* top: -3rem;
+    margin-bottom: -5rem; */
+}
+
+.kotak-input{
+    position: relative;
+    max-width: 210px;
+    width: 100%;
+    margin-top: -10rem;
+    margin-left: 5rem;
+    /* top: -3rem;
+    margin-bottom: -5rem; */
+}
+
+.kotak-jmlh{
+    position: absolute;
+    max-width: 180px;
+    width: 100%;
+    z-index: -1;
+    margin-left: 5rem;
+}
+/* .bla-bla{
+    position: absolute;
+} */
+
+.botol{
+    position: relative;
+    max-width: 400px !important;
+    width: 100%;
+}
+
+.checked{
+    position: relative;
+    max-width: 176px !important;
+    width: 100%;
+}
+
+.money{
+    position: relative;
+    max-width: 176px !important;
+    width: 100%;
+}
+
+.r-checked{
+    position: relative;
+    top: -2rem;
+}
+
+.act-btn{
+    padding-inline: 11rem !important;
+    margin-bottom: 2rem;
+    padding-top: 3rem;
+}
+
+.kembali{
+    margin-left: -7rem !important;
+}
+
+.selanjutnya{
+    margin-right: -6rem !important;
+}
+
+.card-penghasilan{ 
+    background-color: white;  
+    width: 100%; 
+    max-width: 800px !important;
+}
+
+.fa-arrow-down:hover{
+    color:grey;
+}
